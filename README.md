@@ -121,7 +121,7 @@ Níže je příklad barevného výstupu z terminálu během hádání tajného �
 
 ## 6. 🧾 ZADÁNÍ PROJEKTU: 
 
-# Projekt : Bulls & Cows
+Projekt : Bulls & Cows
 
 Tvým úkolem bude vytvořit program, který by simuloval hru **Bulls and Cows**. 
 Po vypsání úvodního textu uživateli, může hádání tajného čtyřciferného čísla 
