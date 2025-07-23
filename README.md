@@ -120,6 +120,7 @@ Níže je příklad barevného výstupu z terminálu během hádání tajného �
 ------------------------------------------------------------------------------
 
 ## 6. 🧾 ZADÁNÍ PROJEKTU: 
+
 # Projekt : Bulls & Cows
 
 Tvým úkolem bude vytvořit program, který by simuloval hru **Bulls and Cows**. 
