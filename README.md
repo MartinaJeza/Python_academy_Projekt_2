@@ -91,7 +91,8 @@ Níže je příklad barevného výstupu z terminálu během hádání tajného �
     cd /cesta/k/projektu
     ```
 
-💡Virtuální prostředí (volitelně, ale doporučeno) :
+💡Virtuální prostředí (volitelně, ale doporučeno):
+
 3. Vytvoř si virtuální prostředí:
     ```bash 
     python3 -m venv venv
@@ -109,18 +110,21 @@ Níže je příklad barevného výstupu z terminálu během hádání tajného �
     ```
 
 💡Instalace knihoven:
+
 5. Nainstaluj požadované knihovny pomocí requirements.txt
     ```bash 
     pip install -r requirements.txt
     ```
 
 💡Spuštění hry:
+
 6. Spusť hlavní soubor v terminálu/příkazovém řádku:
     ```bash 
     python main.py
     ```
 
 💡Ukončení hry:
+
 7. Po ukončení práce deaktivuj virtuální prostředí
     ```bash 
     deactivate
