@@ -76,54 +76,55 @@ Níže je příklad barevného výstupu z terminálu během hádání tajného �
 
 ## 5. 📁 SPUŠTĚNÍ: 
 1. Ujisti se, že máš nainstalovaný Python 3.10+
-  ```bash 
-  python --version
-  ```bash
+    ```bash
+    python --version
+    ```
 
   nebo v některých systémech:
-  ```bash 
-  python3 --version
-  ```bash
+    ```bash 
+    python3 --version
+    ```
 
-2. V terminalu/příkaz. řádku se přesuň do složky, kde máš uložené soubory
+2. V terminálu/příkaz. řádku se přesuň do složky, kde máš uložené soubory
   z repozitáře https://github.com/MartinaJeza/Python_academy_Projekt_2.git
-  ```bash 
-  cd /cesta/k/projektu
+    ```bash 
+    cd /cesta/k/projektu
+    ```
 
-#Virturální prostředí (volitelně, ale doporučeno) :
+💡Virtuální prostředí (volitelně, ale doporučeno) :
 3. Vytvoř si virtuální prostředí:
     ```bash 
     python3 -m venv venv
-    ```bash
+    ```
 
 4. Aktivuj prostředí: 
-      macOS/Linux:
-      ```bash 
-      source venv/bin/activate
-      ```bash
+    macOS/Linux:
+    ```bash
+    source venv/bin/activate
+    ```
 
-      Windows:
-      ```bash 
-      venv\Scripts\activate
-      ```bash
+    Windows:
+    ```bash 
+    venv\Scripts\activate
+    ```
 
-#Instalace knihoven:
+💡Instalace knihoven:
 5. Nainstaluj požadované knihovny pomocí requirements.txt
     ```bash 
     pip install -r requirements.txt
-    ```bash
+    ```
 
-#Spuštění hry:
+💡Spuštění hry:
 6. Spusť hlavní soubor v terminálu/příkazovém řádku:
     ```bash 
     python main.py
-    ```bash
+    ```
 
-#Ukončení hry:
+💡Ukončení hry:
 7. Po ukončení práce deaktivuj virtuální prostředí
     ```bash 
     deactivate
-    ```bash
+    ```
 
 ------------------------------------------------------------------------------
 
